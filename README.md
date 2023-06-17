@@ -4,10 +4,17 @@
   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1rbGdydGlqcnhtN3hxdmhmbGl1eDFwa3lyemwycXB0Y3J6bmM5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100"/>
 </div>
 
+- :telescope: I’m working as a Machine Learning Engineer Intern.
+
+- :seedling: Exploring the World of AI.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](eraygenc)
 
 
 <div id="badges">
-  <a href="[linkedin.com/in/eraygenc](https://www.linkedin.com/in/eraygenc/)">
+  <a href="https://www.linkedin.com/in/eraygenc/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
