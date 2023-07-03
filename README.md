@@ -8,8 +8,6 @@
 
 - :seedling: Exploring the World of AI.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
-
 - :mailbox:How to reach me:
 
 
